@@ -1,0 +1,6 @@
+{
+  "name": "CramNight AI",
+  "description": "Last-minute exam and interview preparation powered by Gemini. Generate interactive cheat sheets, flashcards, and mock quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
